@@ -28,5 +28,13 @@ img {
     width: 40%;
     margin: auto;
     display: block;
-    bron: https://www.freecodecamp.org/news/how-to-center-an-image-in-css/
+/* bron: https://www.freecodecamp.org/news/how-to-center-an-image-in-css/ */
   }
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    list-style: inside;
+}
